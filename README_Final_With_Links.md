@@ -29,4 +29,4 @@ python AI_Analysis_Code_Advanced.py
 ## 📂 Additional Files (Drive Links)
 - 🎥 [Watch Demo Video](https://drive.google.com/file/d/1qw1sdE4MF6nVI0TcXQlsvlqwxdDlonNz/view?usp=drive_link)
 - 🎥 [Alternate Demo Link](https://drive.google.com/file/d/1J7wmwabpyx0MchK6mWra29J14QgO5HMY/view?usp=drive_link)
-- 🖥️ [Download the Presentation](https://docs.google.com/presentation/d/1xtZTjn2Bw6olfzVVavD13K1OBdoi2HFi/edit?usp=drive_link&ouid=107296655394335782194&rtpof=true&sd=true)
+- 🖥️ [Download the Presentation](https://docs.google.com/presentation/d/1QKhQ3j_V3gDeuOluzipYwKbhpULApFGm/edit?usp=sharing&ouid=107296655394335782194&rtpof=true&sd=true)
